@@ -16,5 +16,4 @@ I am currently working on making a proper user interface using TKinter
 
 Please feel free to improve the code!
 
-Copyright
 Copyright © Shivpalsinh Rana
